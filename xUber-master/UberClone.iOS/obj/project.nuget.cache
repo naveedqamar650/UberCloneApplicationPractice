@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lm4H+JKT8dhktMyzP1O7IL/DD0XSyTsdWrJUFY6g/RS3c3tGIQ+NOnc/SuEcX37JExD74+aHc+b76sVjoluGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\source\\repos\\UberCloneApplicationPractice\\xUber-master\\UberClone.iOS\\UberClone.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\acr.userdialogs\\7.0.4\\acr.userdialogs.7.0.4.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\btprogresshud\\1.2.0.6\\btprogresshud.1.2.0.6.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\cardsview\\2.1.5\\cardsview.2.1.5.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\fody\\5.0.6\\fody.5.0.6.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\propertychanged.fody\\3.0.1\\propertychanged.fody.3.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\stateless\\5.11.0\\stateless.5.11.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.build.download\\0.4.7\\xamarin.build.download.0.4.7.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.forms.googlemaps\\3.2.0\\xamarin.forms.googlemaps.3.2.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.google.ios.maps\\2.5.0\\xamarin.google.ios.maps.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
