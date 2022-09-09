@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "dgSpecHash": "ciaOLmwhknP9i/ND602nZi7Q6i7NPQ7XeotecOF4MeAwaTqvwpw+m2bS8W6YR0QL8DsKymp1SNk5kD3v/0owlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\source\\repos\\UberCloneApplicationPractice\\xUber-master\\UberClone.Android\\UberClone.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\acr.userdialogs\\7.0.4\\acr.userdialogs.7.0.4.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\andhud\\1.4.1\\andhud.1.4.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\cardsview\\2.1.5\\cardsview.2.1.5.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\fody\\5.0.6\\fody.5.0.6.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\plugin.currentactivity\\2.1.0.4\\plugin.currentactivity.2.1.0.4.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\propertychanged.fody\\3.0.1\\propertychanged.fody.3.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\stateless\\5.11.0\\stateless.5.11.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.1\\xamarin.android.arch.core.common.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.1\\xamarin.android.arch.core.runtime.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.lifecycle.common\\1.1.1.1\\xamarin.android.arch.lifecycle.common.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.lifecycle.livedata\\1.1.1.1\\xamarin.android.arch.lifecycle.livedata.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.lifecycle.livedata.core\\1.1.1.1\\xamarin.android.arch.lifecycle.livedata.core.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.lifecycle.runtime\\1.1.1.1\\xamarin.android.arch.lifecycle.runtime.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.arch.lifecycle.viewmodel\\1.1.1.1\\xamarin.android.arch.lifecycle.viewmodel.1.1.1.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.animated.vector.drawable\\28.0.0.1\\xamarin.android.support.animated.vector.drawable.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.annotations\\28.0.0.1\\xamarin.android.support.annotations.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.asynclayoutinflater\\28.0.0.1\\xamarin.android.support.asynclayoutinflater.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.collections\\28.0.0.1\\xamarin.android.support.collections.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.compat\\28.0.0.1\\xamarin.android.support.compat.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.coordinaterlayout\\28.0.0.1\\xamarin.android.support.coordinaterlayout.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.core.ui\\28.0.0.1\\xamarin.android.support.core.ui.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.core.utils\\28.0.0.1\\xamarin.android.support.core.utils.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.cursoradapter\\28.0.0.1\\xamarin.android.support.cursoradapter.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.customtabs\\28.0.0.1\\xamarin.android.support.customtabs.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.customview\\28.0.0.1\\xamarin.android.support.customview.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.design\\28.0.0.1\\xamarin.android.support.design.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.documentfile\\28.0.0.1\\xamarin.android.support.documentfile.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.drawerlayout\\28.0.0.1\\xamarin.android.support.drawerlayout.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.fragment\\28.0.0.1\\xamarin.android.support.fragment.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.interpolator\\28.0.0.1\\xamarin.android.support.interpolator.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.loader\\28.0.0.1\\xamarin.android.support.loader.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.localbroadcastmanager\\28.0.0.1\\xamarin.android.support.localbroadcastmanager.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.media.compat\\28.0.0.1\\xamarin.android.support.media.compat.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.print\\28.0.0.1\\xamarin.android.support.print.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.slidingpanelayout\\28.0.0.1\\xamarin.android.support.slidingpanelayout.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.swiperefreshlayout\\28.0.0.1\\xamarin.android.support.swiperefreshlayout.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.transition\\28.0.0.1\\xamarin.android.support.transition.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.v4\\28.0.0.1\\xamarin.android.support.v4.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.v7.appcompat\\28.0.0.1\\xamarin.android.support.v7.appcompat.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.v7.cardview\\28.0.0.1\\xamarin.android.support.v7.cardview.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.v7.mediarouter\\28.0.0.1\\xamarin.android.support.v7.mediarouter.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.v7.palette\\28.0.0.1\\xamarin.android.support.v7.palette.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.v7.recyclerview\\28.0.0.1\\xamarin.android.support.v7.recyclerview.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.vector.drawable\\28.0.0.1\\xamarin.android.support.vector.drawable.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.versionedparcelable\\28.0.0.1\\xamarin.android.support.versionedparcelable.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.android.support.viewpager\\28.0.0.1\\xamarin.android.support.viewpager.28.0.0.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.build.download\\0.4.9\\xamarin.build.download.0.4.9.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.forms.googlemaps\\3.2.0\\xamarin.forms.googlemaps.3.2.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.googleplayservices.base\\60.1142.1\\xamarin.googleplayservices.base.60.1142.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.googleplayservices.basement\\60.1142.1\\xamarin.googleplayservices.basement.60.1142.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.googleplayservices.maps\\60.1142.1\\xamarin.googleplayservices.maps.60.1142.1.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\xamarin.googleplayservices.tasks\\60.1142.1\\xamarin.googleplayservices.tasks.60.1142.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Android.Support.v4 from 28.0.0.3 to 28.0.0.1. Reference the package directly from the project to select a different version. \r\n UberClone.Android -> Xamarin.Forms 4.8.0.1821 -> Xamarin.Android.Support.v4 (>= 28.0.0.3) \r\n UberClone.Android -> Xamarin.Android.Support.v4 (>= 28.0.0.1)",
+      "libraryId": "Xamarin.Android.Support.v4",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Android.Support.Design from 28.0.0.3 to 28.0.0.1. Reference the package directly from the project to select a different version. \r\n UberClone.Android -> Xamarin.Forms 4.8.0.1821 -> Xamarin.Android.Support.Design (>= 28.0.0.3) \r\n UberClone.Android -> Xamarin.Android.Support.Design (>= 28.0.0.1)",
+      "libraryId": "Xamarin.Android.Support.Design",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Android.Support.v7.AppCompat from 28.0.0.3 to 28.0.0.1. Reference the package directly from the project to select a different version. \r\n UberClone.Android -> Xamarin.Forms 4.8.0.1821 -> Xamarin.Android.Support.v7.AppCompat (>= 28.0.0.3) \r\n UberClone.Android -> Xamarin.Android.Support.v7.AppCompat (>= 28.0.0.1)",
+      "libraryId": "Xamarin.Android.Support.v7.AppCompat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Android.Support.v7.CardView from 28.0.0.3 to 28.0.0.1. Reference the package directly from the project to select a different version. \r\n UberClone.Android -> Xamarin.Forms 4.8.0.1821 -> Xamarin.Android.Support.v7.CardView (>= 28.0.0.3) \r\n UberClone.Android -> Xamarin.Android.Support.v7.CardView (>= 28.0.0.1)",
+      "libraryId": "Xamarin.Android.Support.v7.CardView",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Android.Support.CustomTabs from 28.0.0.3 to 28.0.0.1. Reference the package directly from the project to select a different version. \r\n UberClone.Android -> Xamarin.Forms 4.8.0.1821 -> Xamarin.Android.Support.CustomTabs (>= 28.0.0.3) \r\n UberClone.Android -> Xamarin.Android.Support.CustomTabs (>= 28.0.0.1)",
+      "libraryId": "Xamarin.Android.Support.CustomTabs",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
+}
